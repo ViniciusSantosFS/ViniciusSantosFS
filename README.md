@@ -1,7 +1,7 @@
-### Hi there 👋 
-### 🙇 I'm Vinicius Santos Florêncio
+<h3> Hi there 👋 </h3>
+<h3>  🙇 I'm Vinicius Santos Florêncio </h3>
 
-<h2> 🛵 I’m currently working as Mobile developer on Moovery - Delivery Inteligente </h2> 
+<h3> 🛵 I’m currently working as Mobile developer on Moovery - Delivery Inteligente </h3> 
 <h3>How can you reach me ❓❓</h3>
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-8442681b8/)									
