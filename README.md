@@ -11,7 +11,7 @@
 <div>
 	<h1>Status 🎮</h1>
   <a href="https://github.com/ViniciusSantosFS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSantosFS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSantosFS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantosFS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
