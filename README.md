@@ -1,5 +1,4 @@
 <h3> Hi there 👋 </h3>
-<h3>  🙇 I'm Vinicius Santos Florêncio </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-8442681b8/)									
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusantos.florencio@gmail.com)	
