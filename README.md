@@ -3,15 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-8442681b8/)									
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusantos.florencio@gmail.com)	
 
-
-<div>
-	<h1>Status 🎮</h1>
-  <a href="https://github.com/ViniciusSantosFS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSantosFS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantosFS&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-	
 <div>
 		<h1>Technologies 💻</h1>
 		<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black />
