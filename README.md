@@ -20,7 +20,7 @@
 		<img src=https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white />
 	<h3>Source control</h3>
 		<img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
-	<h3>IDES</h3>
+	<h3>IDEs</h3>
 		<img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
 		<img src=https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white />
 </div>
