@@ -11,7 +11,6 @@
 	<h3>Programming Languages</h3>
 		<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
 		<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
-		<img src=https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white />
 	<h3>Frameworks & Libs</h3>
 		<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
 		<img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
@@ -22,5 +21,4 @@
 		<img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
 	<h3>IDEs</h3>
 		<img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
-		<img src=https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white />
 </div>
