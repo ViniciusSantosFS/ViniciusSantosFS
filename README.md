@@ -6,8 +6,6 @@
 
 <div>
 <h1>Technologies 💻</h1>
-	<h3>Kernel</h3>
-		<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black />
 	<h3>Programming Languages</h3>
 		<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
 		<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
